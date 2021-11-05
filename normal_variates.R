@@ -1,2 +1,2 @@
-"x = rnorm(100)" 
-"print(mean(x))" 
+x = rnorm(100)
+print(mean(x)) 
